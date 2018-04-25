@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\bin\Debug\AdventureW2012.exe.config
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\bin\Debug\AdventureW2012.exe
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\bin\Debug\AdventureW2012.pdb
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.Form1.resources
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.exe
+C:\Users\MTCStudent\Desktop\AdventureW2012\AdventureW2012\obj\Debug\AdventureW2012.pdb
